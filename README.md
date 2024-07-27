@@ -8,8 +8,8 @@ I'm a passionate developer with skills in HTML, CSS, Python, and SQL.
 - 💬 Ask me about anything related to web development and databases.
 
 ## 📫 How to reach me
-- Email: [your-email@example.com](mailto:ritamjash8@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ritam-jash)
+- Email: (mailto:ritamjash8@gmail.com)
+- LinkedIn: (https://www.linkedin.com/in/ritam-jash)
 
 ## ⚡ Fun fact
 - I love playing cricket and have a friend who's a banking professional aspiring to be a cricketer.
