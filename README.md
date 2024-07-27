@@ -13,9 +13,3 @@ I'm a passionate developer with skills in HTML, CSS, Python, and SQL.
 
 ## ⚡ Fun fact
 - I love playing cricket and have a friend who's a banking professional aspiring to be a cricketer.
-
-### 🐍 Snake Game
-
-![Snake animation](https://github.com/Ritam-jash/Ritam-jash/blob/output/github-contribution-grid-snake.svg)
-
-
