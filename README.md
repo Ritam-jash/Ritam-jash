@@ -178,7 +178,7 @@ CGPA: 8.03
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ritamjash&color=blueviolet&style=for-the-badge" alt="Profile Views Count: 1550+"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ritam-jash.Ritam-jash" alt="Profile Views Count: 1550+"/>
 </div>
 
 <div align="center">
