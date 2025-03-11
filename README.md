@@ -104,14 +104,23 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="25" /> Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Ritam-jash/AI_Resume_Screening_Tool"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ritam-jash&repo=ai-customer-support-chatbot&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" width="45%" alt="Project Card"/></a>
-  <a href="https://github.com/Ritam-jash/recursive_zoom_app"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ritam-jash&repo=lease-document-abstractor&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" width="45%" alt="Project Card"/></a>
+  <a href="https://github.com/Ritam-jash/AI_Resume_Screening_Tool">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ritam-jash&repo=AI_Resume_Screening_Tool&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" width="45%" alt="Project Card"/>
+  </a>
+  <a href="https://github.com/Ritam-jash/recursive_zoom_app">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ritam-jash&repo=recursive_zoom_app&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" width="45%" alt="Project Card"/>
+  </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/Ritam-jash/ai-customer-support-chatbot"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ritam-jash&repo=job-search&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" width="45%" alt="Project Card"/></a>
-  <a href="https://github.com/Ritam-jash/lease-document-abstractor"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ritam-jash&repo=inventory-management-system&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" width="45%" alt="Project Card"/></a>
+  <a href="https://github.com/Ritam-jash/Speech-to-Text-and-Translator">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ritam-jash&repo=Speech-to-Text-and-Translator&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" width="45%" alt="Project Card"/>
+  </a>
+  <a href="https://github.com/Ritam-jash/crypto-price-prediction">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ritam-jash&repo=crypto-price-prediction&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" width="45%" alt="Project Card"/>
+  </a>
 </div>
+
 
 <p align="center">
   <a href="https://github.com/Ritam-jash?tab=repositories">
